@@ -1,2 +1,3 @@
 # syllabus_maker_stuff
  
+ Just some sample code here to make updating my course syllabus each semester ...
